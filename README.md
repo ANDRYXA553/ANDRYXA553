@@ -1,9 +1,3 @@
-<style>
-a{
-    text-underline:none;
-    color:red;
-}
-</style>
 
 <p align="center">
   <img width="100%" src="https://github.com/agilie/assets/blob/main/images/header.png?raw=true" alt="Agilie header image"/>
