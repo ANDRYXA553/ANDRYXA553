@@ -51,7 +51,7 @@ Mobile Development:
 
 Web Platform:
 
-<a href="https://rubyonrails.org/">
+<a href="https://rubyonrails.org/" style="text-decoration: none">
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/ruby-on-rails.webp" alt="Ruby on Rails" width="52" height="24">
 </a>&nbsp;
 <a href="https://nodejs.org/">
@@ -156,4 +156,3 @@ Technologies:
 </a>
 </p>
 <br>
-
