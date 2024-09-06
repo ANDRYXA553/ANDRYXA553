@@ -30,7 +30,7 @@ Mobile Development:
 
 <a style="text-decoration: none" href="https://developer.apple.com/ios/">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/assets/blob/main/images/apple-dark.png?raw=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agilie/assets/main/images/nativescript.webp">
   <img height="24" width="24" alt="Agilie_technology_animation" src="https://github.com/agilie/assets/blob/main/images/apple-light.png?raw=true">
 </picture>
 </a>&nbsp;
