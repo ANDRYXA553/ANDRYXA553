@@ -190,6 +190,7 @@ Technologies:
 <p align="center">
 <a  href="https://www.behance.net/agilie">
 <picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agilie/assets/main/images/behance-yellow.webp">
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/behance-yellow.webp" alt="Behance"/>
 </picture>
 </a>
