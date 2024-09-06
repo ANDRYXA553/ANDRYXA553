@@ -190,32 +190,32 @@ Technologies:
 <p align="center">
 <a  href="https://www.behance.net/agilie">
 <picture>
-<img src="https://raw.githubusercontent.com/agilie/assets/main/images/behance-yellow.webp"/>
+<img src="https://raw.githubusercontent.com/agilie/assets/main/images/behance-yellow.webp" alt="Behance"/>
 </picture>
 </a>
 <a  href="https://dribbble.com/agilie">
 <picture>
-<img src="https://github.com/agilie/assets/blob/main/images/dribbble-yellow.png?raw=true"/>
+<img src="https://github.com/agilie/assets/blob/main/images/dribbble-yellow.png?raw=true" alt="Dribble"/>
 </picture>
 </a>
 <a  href="https://github.com/agilie">
 <picture>
-<img src="https://github.com/agilie/assets/blob/main/images/github-yellow.png?raw=true"/>
+<img src="https://github.com/agilie/assets/blob/main/images/github-yellow.png?raw=true" alt="Github"/>
 </picture>
 </a>
 <a  href="https://www.instagram.com/agilie_team/">
 <picture>
-<img src="https://github.com/agilie/assets/blob/main/images/instagram-yellow.png?raw=true"/>
+<img src="https://github.com/agilie/assets/blob/main/images/instagram-yellow.png?raw=true" alt="Instagram"/>
 </picture>
 </a>
 <a  href="https://www.facebook.com/AgilieTeam/">
 <picture>
-<img src="https://raw.githubusercontent.com/agilie/assets/main/images/facebook-yellow.webp"/>
+<img src="https://raw.githubusercontent.com/agilie/assets/main/images/facebook-yellow.webp" alt="Facebook"/>
 </picture>
 </a>
 <a  href="https://www.linkedin.com/company/agilie">
 <picture>
-<img src="https://raw.githubusercontent.com/agilie/assets/main/images/linkedin-yellow.webp"/>
+<img src="https://raw.githubusercontent.com/agilie/assets/main/images/linkedin-yellow.webp" alt="Linkedin"/>
 </picture>
 </a>
 </p>
