@@ -126,7 +126,8 @@ Technologies:
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/digitalocean.webp" alt="DigitalOcean" width="24" height="24">
 </a>&nbsp;
 <br>
-___
+<br>
+<hr>
 
 #### Join us on our journey to revolutionize digital services and unleash the full potential of your business!
 #### Contact us: [sales@agilie.com](mailto:sales@agilie.com) 👨‍💻👩‍💻
@@ -155,3 +156,4 @@ ___
 </a>
 </p>
 <br>
+
