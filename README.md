@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="100%" src="https://i.ibb.co/N7g71kd/image-2024-09-03-10-09-56.png" alt="Agilie header image"/>
+  <img width="100%" src="https://github.com/agilie/assets/blob/main/images/header.png?raw=true" alt="Agilie header image"/>
 </p>
 
 # Agilie: Inspired Dev Team
@@ -137,22 +137,22 @@ Technologies:
 <h3 align="center">Our links</h3>
 <p align="center">
 <a href="https://www.behance.net/agilie">
-<img src="https://i.ibb.co/7g5JpMc/behance-yellow.webp"/>
+<img src="https://raw.githubusercontent.com/agilie/assets/main/images/behance-yellow.webp"/>
 </a>
 <a href="https://dribbble.com/agilie">
-<img src="https://i.ibb.co/cykYB9T/dribbble-yellow.png"/>
+<img src="https://github.com/agilie/assets/blob/main/images/dribbble-yellow.png?raw=true"/>
 </a>
 <a href="https://github.com/agilie">
-<img src="https://i.ibb.co/pxY5h6B/github-yellow.png"/>
+<img src="https://github.com/agilie/assets/blob/main/images/github-yellow.png?raw=true"/>
 </a>
 <a href="https://www.instagram.com/agilie_team/">
-<img src="https://i.ibb.co/tc58qD3/instagram-yellow.png"/>
+<img src="https://github.com/agilie/assets/blob/main/images/instagram-yellow.png?raw=true"/>
 </a>
 <a href="https://www.facebook.com/AgilieTeam/">
-<img src="https://i.ibb.co/Nm4qtym/facebook-yellow.webp"/>
+<img src="https://raw.githubusercontent.com/agilie/assets/main/images/facebook-yellow.webp"/>
 </a>
 <a href="https://www.linkedin.com/company/agilie">
-<img src="https://i.ibb.co/9WYTBCf/linkedin-yellow.webp"/>
+<img src="https://raw.githubusercontent.com/agilie/assets/main/images/linkedin-yellow.webp"/>
 </a>
 </p>
 <br>
