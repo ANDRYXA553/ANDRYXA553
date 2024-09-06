@@ -28,15 +28,14 @@ ___
 
 Mobile Development:
 
-<a  href="https://developer.apple.com/ios/">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/assets/blob/main/images/apple-dark.png?raw=true">
-  <img height="24" width="24" alt="Agilie_technology_animation" src="https://github.com/agilie/assets/blob/main/images/apple-light.png?raw=true">
-</picture>
-</a>&nbsp;
 <a  href="https://www.android.com/">
 <picture>
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/android-sdk.webp" alt="Android" width="28" height="28">
+</picture>
+</a>&nbsp;
+<a  href="https://developer.apple.com/ios/">
+<picture>
+  <img height="28" width="26" alt="Agilie_technology_animation" src="https://github.com/agilie/assets/blob/main/images/apple-dark.png?raw=true">
 </picture>
 </a>&nbsp;
 <a  href="https://ionicframework.com/">
@@ -190,7 +189,6 @@ Technologies:
 <p align="center">
 <a  href="https://www.behance.net/agilie">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agilie/assets/main/images/behance-yellow.webp">
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/behance-yellow.webp" alt="Behance"/>
 </picture>
 </a>
