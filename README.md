@@ -28,102 +28,154 @@ ___
 
 Mobile Development:
 
-<a style="text-decoration: none" href="https://developer.apple.com/ios/">
+<a  href="https://developer.apple.com/ios/">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agilie/assets/main/images/nativescript.webp">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/assets/blob/main/images/apple-dark.png?raw=true">
   <img height="24" width="24" alt="Agilie_technology_animation" src="https://github.com/agilie/assets/blob/main/images/apple-light.png?raw=true">
 </picture>
 </a>&nbsp;
-<a style="text-decoration: none" href="https://www.android.com/">
+<a  href="https://www.android.com/">
+<picture>
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/android-sdk.webp" alt="Android" width="28" height="28">
+</picture>
 </a>&nbsp;
-<a style="text-decoration: none" href="https://ionicframework.com/">
+<a  href="https://ionicframework.com/">
+<picture>
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/ionic.webp" alt="Ionic" width="28" height="28">
+</picture>
 </a>&nbsp;
-<a style="text-decoration: none" href="https://nativescript.org/">
+<a  href="https://nativescript.org/">
+<picture>
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/nativescript.webp" alt="Nativescript" width="28" height="28">
+</picture>
 </a>&nbsp;
-<a style="text-decoration: none" href="https://reactnative.dev/">
+<a  href="https://reactnative.dev/">
+<picture>
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/reactjs.webp" alt="React Native" width="28" height="28">
+</picture>
 </a>&nbsp;
 
 
 
 Web Platform:
 
-<a style="text-decoration: none" href="https://rubyonrails.org/" style="text-decoration: none">
+<a  href="https://rubyonrails.org/" style="text-decoration: none">
+<picture>
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/ruby-on-rails.webp" alt="Ruby on Rails" width="52" height="24">
+</picture>
 </a>&nbsp;
-<a style="text-decoration: none" href="https://nodejs.org/">
+<a  href="https://nodejs.org/">
+<picture>
 <img src="https://github.com/agilie/assets/blob/main/images/nodejs.png?raw=true" alt="Nodejs" width="24" height="24">
+</picture>
 </a>&nbsp;
-<a style="text-decoration: none" href="https://sinatrarb.com/">
+<a  href="https://sinatrarb.com/">
+<picture>
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/sinatrarb.ico" alt="Sinatrarb" width="24" height="24">
+</picture>
 </a>&nbsp;
-<a style="text-decoration: none" href="https://activeadmin.info/">
+<a  href="https://activeadmin.info/">
+<picture>
 <img src="https://github.com/agilie/assets/blob/main/images/active-admin.png?raw=true" alt="Active admin" width="58" height="24">
+</picture>
 </a>&nbsp;
-<a style="text-decoration: none" href="https://expressjs.com/">
+<a  href="https://expressjs.com/">
+<picture>
 <img src="https://github.com/agilie/assets/blob/main/images/expressjs.png?raw=true" alt="Expressjs" width="24" height="24">
+</picture>
 </a>&nbsp;
-<a style="text-decoration: none" href="https://nestjs.com/">
+<a  href="https://nestjs.com/">
+<picture>
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/nestjs.webp" alt="Nestjs" width="24" height="24">
+</picture>
 </a>&nbsp;
-<a style="text-decoration: none" href="https://hapi.dev/">
+<a  href="https://hapi.dev/">
+<picture>
 <img src="https://github.com/agilie/assets/blob/main/images/hapi.png?raw=true" alt="Hapi" width="24" height="24">
+</picture>
 </a>&nbsp;
 <br>
-<a style="text-decoration: none" href="https://angular.dev/">
+<a  href="https://angular.dev/">
+<picture>
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/angular.webp" alt="Angular" width="24" height="24">
+</picture>
 </a>&nbsp;
-<a style="text-decoration: none" href="https://react.dev/">
+<a  href="https://react.dev/">
+<picture>
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/reactjs.webp" alt="React" width="24" height="24">
+</picture>
 </a>&nbsp;
-<a style="text-decoration: none" href="https://vuejs.org/">
+<a  href="https://vuejs.org/">
+<picture>
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/vuejs.webp" alt="Vue.js" width="24" height="24">
+</picture>
 </a>&nbsp;
 
 Programming Languages:
 
-<a style="text-decoration: none" href="https://www.swift.org/">
+<a  href="https://www.swift.org/">
+<picture>
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/swift.webp" alt="Swift" width="24" height="24">
+</picture>
 </a>&nbsp;
-<a style="text-decoration: none" href="https://www.objc.io/">
+<a  href="https://www.objc.io/">
+<picture>
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/objective-c.webp" alt="ObjectiveC" width="16" height="23">
+</picture>
 </a>&nbsp;
-<a style="text-decoration: none" href="https://www.java.com/">
+<a  href="https://www.java.com/">
+<picture>
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/java.webp" alt="Java" width="16" height="24">
+</picture>
 </a>&nbsp;
-<a style="text-decoration: none" href="https://kotlinlang.org/">
+<a  href="https://kotlinlang.org/">
+<picture>
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/kotlin.webp" alt="Kotlin" width="24" height="24">
+</picture>
 </a>&nbsp;
-<a style="text-decoration: none" href="https://www.ruby-lang.org/">
+<a  href="https://www.ruby-lang.org/">
+<picture>
 <img src="https://agilie.com/_next/image?url=%2Fmain-images%2Ftechnologies-section%2Fback-end%2Fnestjs.png&w=48&q=75" alt="Ruby" width="24" height="24">
+</picture>
 </a>&nbsp;
-<a style="text-decoration: none" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<picture>
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/javascript.webp" alt="Javascript" width="24" height="24">
+</picture>
 </a>&nbsp;
-<a style="text-decoration: none" href="https://www.typescriptlang.org/">
+<a  href="https://www.typescriptlang.org/">
+<picture>
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/typescript.webp" alt="Typescript" width="24" height="24">
+</picture>
 </a>&nbsp;
 
 
 Technologies:
 
-<a style="text-decoration: none" href="https://aws.amazon.com/what-is/restful-api/#:~:text=RESTful%20web%20services%20support%20total,not%20affect%20the%20client%20application.">
+<a  href="https://aws.amazon.com/what-is/restful-api/#:~:text=RESTful%20web%20services%20support%20total,not%20affect%20the%20client%20application.">
+<picture>
 <img src="https://github.com/agilie/assets/blob/main/images/restful.png?raw=true" alt="Restful" width="24" height="24">
+</picture>
 </a>&nbsp;
-<a style="text-decoration: none" href="https://www.docker.com/">
+<a  href="https://www.docker.com/">
+<picture>
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/docker.webp" alt="Docker" width="38" height="24">
+</picture>
 </a>&nbsp;
-<a style="text-decoration: none" href="https://firebase.google.com/">
+<a  href="https://firebase.google.com/">
+<picture>
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/firebase.webp" alt="Firebase" width="16" height="24">
+</picture>
 </a>&nbsp;
-<a style="text-decoration: none" href="https://aws.amazon.com/">
+<a  href="https://aws.amazon.com/">
+<picture>
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/amazon.webp" alt="AWS" width="40" height="24">
+</picture>
 </a>&nbsp;
-<a style="text-decoration: none" href="https://www.digitalocean.com/">
+<a  href="https://www.digitalocean.com/">
+<picture>
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/digitalocean.webp" alt="DigitalOcean" width="24" height="24">
+</picture>
 </a>&nbsp;
 <br>
 <br>
@@ -136,23 +188,35 @@ Technologies:
 
 <h3 align="center">Our links</h3>
 <p align="center">
-<a style="text-decoration: none" href="https://www.behance.net/agilie">
+<a  href="https://www.behance.net/agilie">
+<picture>
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/behance-yellow.webp"/>
+</picture>
 </a>
-<a style="text-decoration: none" href="https://dribbble.com/agilie">
+<a  href="https://dribbble.com/agilie">
+<picture>
 <img src="https://github.com/agilie/assets/blob/main/images/dribbble-yellow.png?raw=true"/>
+</picture>
 </a>
-<a style="text-decoration: none" href="https://github.com/agilie">
+<a  href="https://github.com/agilie">
+<picture>
 <img src="https://github.com/agilie/assets/blob/main/images/github-yellow.png?raw=true"/>
+</picture>
 </a>
-<a style="text-decoration: none" href="https://www.instagram.com/agilie_team/">
+<a  href="https://www.instagram.com/agilie_team/">
+<picture>
 <img src="https://github.com/agilie/assets/blob/main/images/instagram-yellow.png?raw=true"/>
+</picture>
 </a>
-<a style="text-decoration: none" href="https://www.facebook.com/AgilieTeam/">
+<a  href="https://www.facebook.com/AgilieTeam/">
+<picture>
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/facebook-yellow.webp"/>
+</picture>
 </a>
-<a style="text-decoration: none" href="https://www.linkedin.com/company/agilie">
+<a  href="https://www.linkedin.com/company/agilie">
+<picture>
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/linkedin-yellow.webp"/>
+</picture>
 </a>
 </p>
 <br>
