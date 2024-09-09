@@ -28,7 +28,7 @@ ___
 
 Mobile Development:
 
-<a  href="https://www.android.com/">
+<a  href="https://www.android.com/" style="text-decoration: none">
 <!-- <picture> -->
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/android-sdk.webp" alt="Android" width="28" height="28">
 <!-- </picture> -->
