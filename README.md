@@ -30,7 +30,11 @@ Mobile Development:
 <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 
 <p>
-<a  href="https://www.android.com/" width="28" height="28"><img src="https://raw.githubusercontent.com/agilie/assets/main/images/android-sdk.webp" alt="Android">
+<a  href="https://www.android.com/" width="28" height="28">
+  <p>
+  <img src="https://raw.githubusercontent.com/agilie/assets/main/images/android-sdk.webp" alt="Android">
+    
+  </p>
 </a>&nbsp;
 <a  href="https://developer.apple.com/ios/">
 <picture>
