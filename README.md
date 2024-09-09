@@ -199,11 +199,6 @@ Technologies:
 <img src="https://github.com/agilie/assets/blob/main/images/dribbble-yellow.png?raw=true" alt="Dribble"/>
 </picture>
 </a>
-<a  href="https://github.com/agilie">
-<picture>
-<img src="https://github.com/agilie/assets/blob/main/images/github-yellow.png?raw=true" alt="Github"/>
-</picture>
-</a>
 <a  href="https://www.instagram.com/agilie_team/">
 <picture>
 <img src="https://github.com/agilie/assets/blob/main/images/instagram-yellow.png?raw=true" alt="Instagram"/>
