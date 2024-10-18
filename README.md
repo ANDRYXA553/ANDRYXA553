@@ -28,7 +28,7 @@ ___
 Mobile Development:
 
 <a  href="https://www.android.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/tech-stack/android.png?raw=true"><img width="32" height="28" src="https://github.com/agilie/.github/blob/main/assets/tech-stack/android.png?raw=true" alt="Android"></picture></a>&nbsp;
-<a  href="https://developer.apple.com/ios/"><img height="28" width="26" alt="Agilie_technology_animation" src="https://github.com/agilie/.github/blob/main/assets/tech-stack/ios.png?raw=true"></a>&nbsp;
+<a  href="https://developer.apple.com/ios/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/tech-stack/ios.png?raw=true"><img height="28" width="28" src="https://github.com/agilie/.github/blob/main/assets/tech-stack/ios.png?raw=true" alt="IOS"></picture></a>&nbsp;
 <a  href="https://ionicframework.com/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/Ionic.png?raw=true" alt="Ionic" width="28" height="28"></a>&nbsp;
 <a  href="https://nativescript.org/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/native-script.png?raw=true" alt="Nativescript" width="28" height="28"></a>&nbsp;
 <a  href="https://reactnative.dev/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/react-native.png?raw=true" alt="React Native" width="28" height="28"></a>&nbsp;
