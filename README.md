@@ -40,7 +40,7 @@ Web Platform:
 <a  href="https://nodejs.org/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/node-js.png?raw=true" alt="Nodejs" width="56" height="28"></a>&nbsp;
 <a  href="https://sinatrarb.com/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/sinatra.png?raw=true" alt="Sinatrarb" width="56" height="28"></a>&nbsp;
 <a  href="https://activeadmin.info/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/active-admin.png?raw=true" alt="Active admin" width="28" height="28"></a>&nbsp;
-<a  href="https://expressjs.com/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/express-js.png?raw=true" alt="Expressjs" width="70" height="28"></a>&nbsp;
+<a  href="https://expressjs.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/tech-stack/express-js.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/express-js.png?raw=true" alt="Expressjs" width="70" height="28"></picture></a>&nbsp;
 <a  href="https://nestjs.com/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/nest-js.png?raw=true" alt="Nestjs" width="28" height="28"></a>&nbsp;
 <a  href="https://hapi.dev/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/hapi.png?raw=true" alt="Hapi" width="28" height="28"></a>&nbsp;
 <br>
