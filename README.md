@@ -80,9 +80,9 @@ Technologies:
 <h3 align="center">Our links</h3>
 <p align="center">
 <a  href="https://www.behance.net/agilie"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/socials/behance.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/light/socials/behance.png?raw=true" width="40" height="40" alt="Behance"/></picture></a>
-<a  href="https://dribbble.com/agilie"><img src="https://github.com/agilie/.github/blob/main/assets/socials/dribbble.png?raw=true" width="40" height="40" alt="Dribble"/></a>
-<a  href="https://www.instagram.com/agilie_team/"><img src="https://github.com/agilie/.github/blob/main/assets/socials/instagram.png?raw=true" width="40" height="40" alt="Instagram"/></a>
-<a  href="https://www.facebook.com/AgilieTeam/"><img src="https://github.com/agilie/.github/blob/main/assets/socials/facebook.png?raw=true" width="40" height="40" alt="Facebook"/></a>
-<a  href="https://www.linkedin.com/company/agilie"><img src="https://github.com/agilie/.github/blob/main/assets/socials/linkedin.png?raw=true" width="40" height="40" alt="Linkedin"/></a>
+<a  href="https://dribbble.com/agilie"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/socials/dribbble.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/light/socials/dribbble.png?raw=true" width="40" height="40" alt="Dribbble"/></picture></a>
+<a  href="https://www.instagram.com/agilie_team/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/socials/instagram.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/light/socials/instagram.png?raw=true" width="40" height="40" alt="Instagram"/></picture></a>
+<a  href="https://www.facebook.com/AgilieTeam/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/socials/facebook.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/light/socials/facebook.png?raw=true" width="40" height="40" alt="Facebook"/></picture></a>
+<a  href="https://www.linkedin.com/company/agilie"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/socials/linkedin.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/light/socials/linkedin.png?raw=true" width="40" height="40" alt="Linkedin"/></picture></a>
 </p>
 <br>
