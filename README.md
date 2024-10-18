@@ -61,7 +61,7 @@ Programming Languages:
 
 Technologies:
 
-<a  href="https://aws.amazon.com/what-is/restful-api/#:~:text=RESTful%20web%20services%20support%20total,not%20affect%20the%20client%20application."><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/rest.png?raw=true" alt="Restful" width="43" height="28"></a>&nbsp;
+<a  href="https://aws.amazon.com/what-is/restful-api/#:~:text=RESTful%20web%20services%20support%20total,not%20affect%20the%20client%20application."><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/tech-stack/rest.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/rest.png?raw=true" alt="Restful" width="43" height="28"></picture></a>&nbsp;
 <a  href="https://www.docker.com/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/docker.png?raw=true" alt="Docker" width="28" height="28"></a>&nbsp;
 <a  href="https://firebase.google.com/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/firebase.png?raw=true" alt="Firebase" width="28" height="28"></a>&nbsp;
 <a  href="https://aws.amazon.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/tech-stack/aws.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/aws.png?raw=true" alt="AWS" width="47" height="28"></picture></a>&nbsp;
