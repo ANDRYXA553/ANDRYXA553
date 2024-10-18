@@ -79,7 +79,7 @@ Technologies:
 
 <h3 align="center">Our links</h3>
 <p align="center">
-<a  href="https://www.behance.net/agilie"><img src="https://github.com/agilie/.github/blob/main/assets/socials/behance.png?raw=true" width="40" height="40" alt="Behance"/></a>
+<a  href="https://www.behance.net/agilie"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/socials/behance.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/light/socials/behance.png?raw=true" width="40" height="40" alt="Behance"/></picture></a>
 <a  href="https://dribbble.com/agilie"><img src="https://github.com/agilie/.github/blob/main/assets/socials/dribbble.png?raw=true" width="40" height="40" alt="Dribble"/></a>
 <a  href="https://www.instagram.com/agilie_team/"><img src="https://github.com/agilie/.github/blob/main/assets/socials/instagram.png?raw=true" width="40" height="40" alt="Instagram"/></a>
 <a  href="https://www.facebook.com/AgilieTeam/"><img src="https://github.com/agilie/.github/blob/main/assets/socials/facebook.png?raw=true" width="40" height="40" alt="Facebook"/></a>
