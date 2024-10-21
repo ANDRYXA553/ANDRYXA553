@@ -37,12 +37,12 @@ Mobile Development:
 Web Platform:
 
 <a  href="https://rubyonrails.org/" style="text-decoration: none"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/ruby-on-rails.png?raw=true" alt="Ruby on Rails" width="56" height="28"></a>&nbsp;
-<a  href="https://nodejs.org/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/node-js.png?raw=true" alt="Nodejs" width="56" height="28"></a>&nbsp;
+<a  href="https://nodejs.org/"><img src="https://github.com/agilie/.github/blob/main/assets/light/tech-stack/node-js.png?raw=true" alt="Nodejs" width="100" height="28"></a>&nbsp;
 <a  href="https://sinatrarb.com/"><img src="https://github.com/agilie/.github/blob/main/assets/light/tech-stack/sinatra.png?raw=true" alt="Sinatrarb" width="41" height="28"></a>&nbsp;
 <a  href="https://activeadmin.info/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/active-admin.png?raw=true" alt="Active admin" width="28" height="28"></a>&nbsp;
-<a  href="https://expressjs.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/tech-stack/express-js.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/express-js.png?raw=true" alt="Expressjs" width="70" height="28"></picture></a>&nbsp;
+<a  href="https://expressjs.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/tech-stack/express-js.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/light/tech-stack/express-js.png?raw=true" alt="Expressjs" width="115" height="28"></picture></a>&nbsp;
 <a  href="https://nestjs.com/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/nest-js.png?raw=true" alt="Nestjs" width="28" height="28"></a>&nbsp;
-<a  href="https://hapi.dev/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/hapi.png?raw=true" alt="Hapi" width="28" height="28"></a>&nbsp;
+<a  href="https://hapi.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/tech-stack/hapi.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/light/tech-stack/hapi.png?raw=true" alt="Hapi" width="27" height="28"></picture></a>&nbsp;
 <br>
 <a  href="https://angular.dev/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/angular.png?raw=true" alt="Angular" width="28" height="28"></a>&nbsp;
 <a  href="https://react.dev/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/react-js.png?raw=true" alt="React" width="28" height="28"></a>&nbsp;
@@ -61,7 +61,7 @@ Programming Languages:
 
 Technologies:
 
-<a  href="https://aws.amazon.com/what-is/restful-api/#:~:text=RESTful%20web%20services%20support%20total,not%20affect%20the%20client%20application."><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/tech-stack/rest.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/rest.png?raw=true" alt="Restful" width="43" height="28"></picture></a>&nbsp;
+<a  href="https://aws.amazon.com/what-is/restful-api/#:~:text=RESTful%20web%20services%20support%20total,not%20affect%20the%20client%20application."><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/tech-stack/rest.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/light/tech-stack/aws.png?raw=true" alt="Restful" width="43" height="28"></picture></a>&nbsp;
 <a  href="https://www.docker.com/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/docker.png?raw=true" alt="Docker" width="28" height="28"></a>&nbsp;
 <a  href="https://firebase.google.com/"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/firebase.png?raw=true" alt="Firebase" width="28" height="28"></a>&nbsp;
 <a  href="https://aws.amazon.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/.github/blob/main/assets/dark/tech-stack/aws.png?raw=true"><img src="https://github.com/agilie/.github/blob/main/assets/tech-stack/aws.png?raw=true" alt="AWS" width="47" height="28"></picture></a>&nbsp;
